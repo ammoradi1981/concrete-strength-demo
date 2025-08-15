@@ -20,7 +20,7 @@ Cement, Slag, Fly Ash, Water, Superplasticizer, Coarse Aggregate, Fine Aggregate
 
 Live Demo
 
-You can access the running app here:
+You can access the running app here (Public Link):
 https://my-app-660887990276.us-central1.run.app/<img width="1194" height="80" alt="image" src="https://github.com/user-attachments/assets/80f94e7e-8d74-48f4-995e-ca1bf83e8662" />
 
 
