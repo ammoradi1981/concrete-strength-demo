@@ -21,7 +21,9 @@ Cement, Slag, Fly Ash, Water, Superplasticizer, Coarse Aggregate, Fine Aggregate
 Live Demo
 
 You can access the running app here:
-Public Demo Link
+https://my-app-660887990276.us-central1.run.app/<img width="1194" height="80" alt="image" src="https://github.com/user-attachments/assets/80f94e7e-8d74-48f4-995e-ca1bf83e8662" />
+
+
 
 Endpoints available:
 
@@ -74,7 +76,9 @@ Run the API locally:
 python app.py
 
 
-The app will run on http://127.0.0.1:5000/ by default.
+The app will run on the publick link:  https://my-app-660887990276.us-central1.run.app/<img width="1194" height="80" alt="image" src="https://github.com/user-attachments/assets/f5cb07f5-43e4-43b8-a209-0730a6e26a20" />
+
+
 
 Author
 
